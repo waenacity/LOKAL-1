@@ -402,7 +402,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar3.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9VG9xye.png" group-title=" 🔴 BEIN SPORTS 🔴 ", BEIN SPORTS 4
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar4.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title="SPORTS HD", BEIN SPORTS 5
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PfdvrIL.png" group-title=" 🔴 BEIN SPORTS 🔴 ", BEIN SPORTS 5
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/beinar5.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qCk71Jf.png" group-title=" 🔴 BEIN SPORTS 🔴 ", BEIN SPORTS 6
